@@ -1,1 +1,1 @@
-This is simple file for testing the basic setup
+Clone first file
